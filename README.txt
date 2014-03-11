@@ -33,7 +33,7 @@ This plugin is *very* specific in purpose. In order to use it, you will need to 
 
 = Your plugin broke all my images! =
 
-This plugin is *very* specific in purpose. In order to use it, you will need to follow some steps first. Please see the Before Use section
+This plugin is *very* specific in purpose. In order to use it, you will need to follow some steps first. Please see the [Before Use](http://wordpress.org/plugins/disable-multisite-rewrites/other_notes/) section
 
 = Your plugin didn't do anything at all! =
 

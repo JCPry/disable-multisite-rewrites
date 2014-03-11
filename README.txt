@@ -2,7 +2,7 @@
 Contributors: JPry
 Tags: multisite, uploads, rewrites
 Requires at least: 3.5
-Tested up to: 3.7.1
+Tested up to: 3.8.1
 Stable Tag: 1.0
 License: GPL2
 
